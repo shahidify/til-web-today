@@ -1,4 +1,4 @@
-# til-web-today
+# TIL-web
 TIL on Web Today
 
  -[ x ] HTML5 Video API with Javascript
