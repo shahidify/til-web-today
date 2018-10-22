@@ -12,6 +12,7 @@ React Styled Components
 Themes in Styled Components
 
 Next.js
-
+GraphQL Concepts
+Apollo GraphQL
 
 
